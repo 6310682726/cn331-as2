@@ -7,4 +7,4 @@
 
 แล้วเลือกรายวิชาที่ต้องการลงทะเบียน
 
-<a href="www.youtube.com">clip</a>
+<a href="233305-800x360.mp4">clip</a>
