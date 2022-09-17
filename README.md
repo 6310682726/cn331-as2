@@ -7,4 +7,4 @@
 
 แล้วเลือกรายวิชาที่ต้องการลงทะเบียน
 
-<a href="https://youtu.be/Is6wCCUZcw8clip"></a>
+<a href="https://youtu.be/Is6wCCUZcw8clip">click</a>
